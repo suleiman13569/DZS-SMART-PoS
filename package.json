@@ -1,0 +1,7 @@
+{
+  "name": "dzs-smart-pos-placeholder",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo This is a placeholder. Replace with the full app source. && pause"
+  }
+}
